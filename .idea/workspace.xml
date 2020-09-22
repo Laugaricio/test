@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55299b9a-fd58-4839-bb6a-9c03392f4dc3" name="Default Changelist" comment="added README">
+    <list default="true" id="55299b9a-fd58-4839-bb6a-9c03392f4dc3" name="Default Changelist" comment="edited README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599994837750</updated>
       <workItem from="1599994839288" duration="831000" />
-      <workItem from="1600793921900" duration="1082000" />
+      <workItem from="1600793921900" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="added PHP.php">
       <created>1600794435120</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600794897181</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="edited README.md">
+      <created>1600795041267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600795041267</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +148,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added PHP.php" />
     <MESSAGE value="added README" />
-    <option name="LAST_COMMIT_MESSAGE" value="added README" />
+    <MESSAGE value="edited README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="829" y="195" key="#CLI_Interpreters" timestamp="1600794245555">
@@ -168,9 +176,9 @@
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="1073" y="442" key="Github.CreateGistDialog/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794346579" />
-    <state x="841" y="273" key="Vcs.Push.Dialog.v2" timestamp="1600794902652">
+    <state x="841" y="273" key="Vcs.Push.Dialog.v2" timestamp="1600795043359">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state x="841" y="273" key="Vcs.Push.Dialog.v2/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794902652" />
+    <state x="841" y="273" key="Vcs.Push.Dialog.v2/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600795043359" />
   </component>
 </project>
