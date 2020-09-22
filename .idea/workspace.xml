@@ -16,13 +16,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55299b9a-fd58-4839-bb6a-9c03392f4dc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="55299b9a-fd58-4839-bb6a-9c03392f4dc3" name="Default Changelist" comment="added PHP.php" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +44,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,8 +73,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599994837750</updated>
       <workItem from="1599994839288" duration="831000" />
-      <workItem from="1600793921900" duration="224000" />
+      <workItem from="1600793921900" duration="544000" />
     </task>
+    <task id="LOCAL-00001" summary="added PHP.php">
+      <created>1600794435120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600794435120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,20 +93,52 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added PHP.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PHP.php" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="829" y="195" key="#CLI_Interpreters" timestamp="1600794245555">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="829" y="195" key="#CLI_Interpreters/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794245555" />
+    <state x="956" y="183" key="#PHP" timestamp="1600794246488">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="956" y="183" key="#PHP/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794246488" />
     <state x="1022" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600794036334">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="1022" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794036334" />
-    <state x="1029" y="281" key="FileChooserDialogImpl" timestamp="1600794004429">
+    <state x="1029" y="281" key="FileChooserDialogImpl" timestamp="1600794244676">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state x="1029" y="281" key="FileChooserDialogImpl/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794004429" />
+    <state x="1029" y="281" key="FileChooserDialogImpl/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794244676" />
+    <state x="1073" y="442" key="Github.CreateGistDialog" timestamp="1600794346579">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1073" y="442" key="Github.CreateGistDialog/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794346579" />
+    <state x="841" y="273" key="Vcs.Push.Dialog.v2" timestamp="1600794443668">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="841" y="273" key="Vcs.Push.Dialog.v2/0.0.2498.1080/2560.0.2498.1080@0.0.2498.1080" timestamp="1600794443668" />
   </component>
 </project>
